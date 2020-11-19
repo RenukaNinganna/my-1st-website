@@ -1,0 +1,51 @@
+body {
+  background-color: #d65555;
+  margin:5px;
+  border:2px dashed #fff5db;
+  padding:5px;
+}
+
+
+h1 {
+   font-family:algerian;
+}
+.puppy
+{color:yellow;
+  text-decoration: underline}
+
+p{
+  font-family: algerian;
+  font-size: 21px;
+  border:white dotte 2px;
+}
+.lost{
+  color:white;
+  font-family:aerial vernada;
+  text-decoration: underline;
+}
+.caring{
+  color:#fc7e00;
+  text-decoration:underline;
+}
+p{
+  font-family: algerian;
+  font-size:24px;
+}
+.loyal{
+  color:#00fc9c;
+  border:5px dashed purple;
+}
+a{
+  color: white;
+  text-decoration: underline;
+  border: 1px solid white;
+  padding: 5px;
+  
+}
+.bosco{
+  
+  width:60%;
+  border:double #ff0000;
+  border-width:20px;
+}
+

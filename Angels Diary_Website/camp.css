@@ -1,0 +1,22 @@
+body {
+  background-color:#fb5858;
+}
+p {
+  color:	#001eff;
+  font-family: ALGERIAN;
+}
+h1 {
+  font-family:algerian;
+  text-decoration: underline;
+  text-align: center
+}
+h2{font-family:algerian;
+  text-decoration:underline;
+}
+a{
+  color:#ff00a9;
+  text-decoration: none;
+  border: 1px solid white;
+  padding:5px;
+  background-color:#ffbfd3;
+}

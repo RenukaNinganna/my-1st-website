@@ -1,0 +1,70 @@
+body
+{
+  background-color:	#7e093e;
+  border:dotted;
+  border-width:7px;
+  border-color:#ffffff;
+  text-align:center;
+}
+  .me{
+    text-shadow:0 0 3px #FF0000;
+  text-decoration: underline;
+  text-align: center;
+}
+h2
+{
+  text-shadow:0 0 3px #FF0000;
+  text-decoration: underline;
+  text-align: center;
+}
+h3
+{
+  text-align-last: center;
+  text-shadow:0 0 3px #FF0000;
+  text-decoration:underline;
+  
+}
+img  {
+  height:inherit;
+  width: 25%;
+  border-style:dashed;
+  float:right;
+  border-radius:50px;
+  border-width:3px;
+  margin:20px;
+  border-color:white;  
+}
+
+p {
+  font-size: 24px;
+  color:#69fbff;
+  font-family:cursive;
+}
+a{
+  color:white;
+  text-decoration: none;
+  border: 1px solid white;
+  padding:5px;
+background-color:blueviolet;
+}
+  
+.music{
+  text-align-last: center;
+  text-decoration:underline;
+  text-shadow:0 0 3px #FF0000;
+  
+}
+.fav{
+  color:goldenrod;
+  font-family:cursive;
+}
+.talents{
+  color:#b6fd80;
+  text-decoration:inherit;
+}
+.tiger{
+  color:#48e5d4;
+  text-decoration:underline
+}
+
+  
